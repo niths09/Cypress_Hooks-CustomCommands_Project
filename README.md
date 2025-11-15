@@ -107,7 +107,7 @@ Cypress_PHPTravels_E2E/
 
 Navigates to the Signup page inside the Customer dropdown.
 
-✔ ignup(firstName, lastName, country, phone, email, pass)
+✔ signup(firstName, lastName, country, phone, email, pass)
 
 Fills the entire signup form, including the dynamic “Country” dropdown:
 
